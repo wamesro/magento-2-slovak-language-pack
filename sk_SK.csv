@@ -123,7 +123,7 @@ Customers,Zákazníci,module,Magento_AdvancedCheckout
 "You added %1 to your shopping cart.","Pridali ste %1 do Vašeho nákupního košíku.",module,Magento_AdvancedCheckout
 "You cannot add a product.","Nemôžete pridať produkt.",module,Magento_AdvancedCheckout
 "Order by SKU","Zoradiť podľa katalógového čísla",module,Magento_AdvancedCheckout
-"The SKU was not found in the catalog.","The SKU was not found in the catalog.",module,Magento_AdvancedCheckout
+"The SKU was not found in the catalog.","SKU sa v katalógu nenašlo.",module,Magento_AdvancedCheckout
 "Availability: Out of stock.","Dostupnosť: vypredané.",module,Magento_AdvancedCheckout
 "We don't have as many of these as you want.","Požadované množstvo nieje dostupné.",module,Magento_AdvancedCheckout
 "You can't add this many to your cart.","Nemôžete pridať toľko položiek do košíka.",module,Magento_AdvancedCheckout
@@ -136,7 +136,7 @@ Customers,Zákazníci,module,Magento_AdvancedCheckout
 "The file is empty.","Súbor je prázdny.",module,Magento_AdvancedCheckout
 "You have not entered a product SKU. Please <a href=""%1"">click here</a> to add product(s) by SKU.","Nezadali ste katalogové číslo produktu. Prosím, pre pridanie produktu <a href=""%1"">zadajte katalogové číslo</a>.",module,Magento_AdvancedCheckout
 "You have not entered a product SKU.","Nezadali ste katalogové číslo produktu.",module,Magento_AdvancedCheckout
-"We can't add a product to cart by id ""%1"".","We can't add a product to cart by id ""%1"".",module,Magento_AdvancedCheckout
+"We can't add a product to cart by id ""%1"".","Nemožno pridať produkt do košíka podľa id ""%1"".",module,Magento_AdvancedCheckout
 "Something went wrong while reordering this product.","Došlo k chybe počas zoradenia produktu.",module,Magento_AdvancedCheckout
 "We can't find this wish list.","Tento zoznam prianí nieje možné nájsť.",module,Magento_AdvancedCheckout
 "You added %1 product to your shopping cart.","%1 produkt bol pridaný do Vašeho nákupného košíka.",module,Magento_AdvancedCheckout
@@ -2769,7 +2769,7 @@ Close,Close,module,Magento_CheckoutAgreements
 "Enable Terms and Conditions","Enable Terms and Conditions",module,Magento_CheckoutAgreements
 "Preview mode doesn't allow submitting the order.","Preview mode doesn't allow submitting the order.",module,Magento_CheckoutStaging
 "Preview Quote Lifetime (minutes)","Preview Quote Lifetime (minutes)",module,Magento_CheckoutStaging
-"Static Blocks","Static Blocks",module,Magento_Cms
+"Static Blocks","Statické bloky",module,Magento_Cms
 "Add New Block","Add New Block",module,Magento_Cms
 Back,Back,module,Magento_Cms
 "Delete Block","Delete Block",module,Magento_Cms
@@ -3090,7 +3090,7 @@ Dashboard,Dashboard,module,Magento_Config
 "Web Section","Web Section",module,Magento_Config
 "Store Email Addresses Section","Store Email Addresses Section",module,Magento_Config
 "Email to a Friend","Email to a Friend",module,Magento_Config
-"Add configurable attributes to the current Attribute Set (""%1"")","Add configurable attributes to the current Attribute Set (""%1"")",module,Magento_ConfigurableProduct
+"Add configurable attributes to the current Attribute Set (""%1"")","Pridať konfigurovateľné atribúty do aktuálne nastaveného setu atribútov (""%1"")",module,Magento_ConfigurableProduct
 "Add configurable attributes to the new Attribute Set based on current","Add configurable attributes to the new Attribute Set based on current",module,Magento_ConfigurableProduct
 "New attribute set name","New attribute set name",module,Magento_ConfigurableProduct
 "Add configurable attributes to the existing Attribute Set","Add configurable attributes to the existing Attribute Set",module,Magento_ConfigurableProduct
@@ -3260,7 +3260,7 @@ Visible,Visible,module,Magento_ConfigurableProductStaging
 Scope,Scope,module,Magento_ConfigurableProductStaging
 Searchable,Searchable,module,Magento_ConfigurableProductStaging
 Comparable,Comparable,module,Magento_ConfigurableProductStaging
-"Page not found.","Page not found.",module,Magento_Contact
+"Page not found.","Stránka sa nenašla.",module,Magento_Contact
 "Thanks for contacting us with your comments and questions. We'll respond to you very soon.","Ďakujeme že ste nám zaslali Váš názor. V prípade dotazu Vás budeme čoskoro kontaktovať.",module,Magento_Contact
 "We can't process your request right now. Sorry, that's all we know.","Váš požiadavok momentálne nedokážeme spracovať. Bohužiaľ viac v tejto chvíli nemáme viac informácií.",module,Magento_Contact
 "* Required Fields","* Required Fields",module,Magento_Contact
@@ -3285,7 +3285,7 @@ Contacts,Contacts,module,Magento_Contact
 "Email Sender","Email Sender",module,Magento_Contact
 "Email Template","Email Template",module,Magento_Contact
 "Email template chosen based on theme fallback when ""Default"" option is selected.","Email template chosen based on theme fallback when ""Default"" option is selected.",module,Magento_Contact
-"Invalid domain name: %1","Invalid domain name: %1",module,Magento_Cookie
+"Invalid domain name: %1","Neplatný názov domény: %1",module,Magento_Cookie
 "Invalid cookie lifetime: %1","Invalid cookie lifetime: %1",module,Magento_Cookie
 "Invalid cookie path","Invalid cookie path",module,Magento_Cookie
 "We use cookies to make your experience better.","We use cookies to make your experience better.",module,Magento_Cookie
@@ -3319,7 +3319,7 @@ Monthly,Monthly,module,Magento_Cron
 "Success History Lifetime","Success History Lifetime",module,Magento_Cron
 "Failure History Lifetime","Failure History Lifetime",module,Magento_Cron
 "Use Separate Process","Use Separate Process",module,Magento_Cron
-"Save Currency Rates","Save Currency Rates",module,Magento_CurrencySymbol
+"Save Currency Rates","Uložiť kurzy mien",module,Magento_CurrencySymbol
 Options,Options,module,Magento_CurrencySymbol
 Reset,Reset,module,Magento_CurrencySymbol
 Import,Import,module,Magento_CurrencySymbol
@@ -12547,7 +12547,7 @@ Remove,Odstrániť,theme,frontend/Magento/luma
 "Shop By","Nakupovať podľa",theme,frontend/Magento/luma
 "Clear All","Vymazať všetky",theme,frontend/Magento/luma
 "Shopping Options","Možnosti nákupu",theme,frontend/Magento/luma
-"Welcome to %store_name","Welcome to %store_name",theme,frontend/Magento/luma
+"Welcome to %store_name","Vitajte v %store_name",theme,frontend/Magento/luma
 "%name,","%name,",theme,frontend/Magento/luma
 "Welcome to %store_name.","Vitajte na %store_name.",theme,frontend/Magento/luma
 "To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","Pre prihlásenie sa na naších stránkach zadajte údaje v procesu objednávky alebo na stránke <a href=""%customer_url"">Môj účet</a>:",theme,frontend/Magento/luma
@@ -12565,7 +12565,7 @@ Password:,Heslo:,theme,frontend/Magento/luma
 "For shipping to multiple family members and friends","Pre doručenie dalším členom rodiny a priateľom",theme,frontend/Magento/luma
 "Order History","História objednávok",theme,frontend/Magento/luma
 "View past orders","Zobraziť staršie objednávky",theme,frontend/Magento/luma
-Footer,Footer,theme,frontend/Magento/luma
+Footer,Pätička,theme,frontend/Magento/luma
 "About Us","O nás",theme,frontend/Magento/luma
 "Customer Service","Zákaznícky servis",theme,frontend/Magento/luma
 "<a href=""tel:%store_phone"">%store_phone</a>","<a href=""tel:%store_phone""> %store_phone</a>",theme,frontend/Magento/luma
