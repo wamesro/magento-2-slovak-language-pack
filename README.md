@@ -35,7 +35,7 @@ Install the Slovak language pack via composer is never easier.
 **Install Slovak pack**:
 
 ```
-composer require mageplaza/magento-2-slovak-language-pack
+composer require mageplaza/magento-2-slovak-language-pack:dev-master
 php bin/magento setup:static-content:deploy sk_SK
 php bin/magento cache:clean
 php bin/magento cache:flush
@@ -46,7 +46,7 @@ php bin/magento cache:flush
 **Update  Slovak pack**:
 
 ```
-composer update mageplaza/magento-2-slovak-language-pack
+composer update mageplaza/magento-2-slovak-language-pack:dev-master
 php bin/magento setup:static-content:deploy sk_SK
 php bin/magento indexer:reindex
 php bin/magento cache:clean
