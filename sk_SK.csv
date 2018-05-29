@@ -211,7 +211,7 @@ File,Súbor,module,Magento_AdvancedCheckout
 "Index sales rule","Indexovať predajné pravidlo",module,Magento_AdvancedSalesRule
 "Related Search Terms","Výrazy súvisiace s vyhľadávaním",module,Magento_AdvancedSearch
 "Add New Search Term","Pridať nový hľadaný výraz",module,Magento_AdvancedSearch
-button_label,button_label,module,Magento_AdvancedSearch
+button_label,tlačidlo_názov,module,Magento_AdvancedSearch
 "Missing search engine parameter.","Chýba parameter pre vyhľadávanie.",module,Magento_AdvancedSearch
 "Successful! Test again?","Úspech! Testovať znova?",module,Magento_AdvancedSearch
 "Connection failed! Test again?","Pripojenie zlyhalo! Testovať znova?",module,Magento_AdvancedSearch
@@ -222,8 +222,8 @@ button_label,button_label,module,Magento_AdvancedSearch
 "Enable Search Suggestions","Povoliť našepkávač vo výhľadávači",module,Magento_AdvancedSearch
 "Search Suggestions Count","Počet návrhov v našepkávači",module,Magento_AdvancedSearch
 "Show Results Count for Each Suggestion","Zobraziť počet výsledkov pre každý návrh našepkávača",module,Magento_AdvancedSearch
-"Related search terms","Related search terms",module,Magento_AdvancedSearch
-"Did you mean","Did you mean",module,Magento_AdvancedSearch
+"Related search terms","Výrazy súvisiace s vyhľadávaním",module,Magento_AdvancedSearch
+"Did you mean","Mysleli ste",module,Magento_AdvancedSearch
 ID,ID,module,Magento_AdvancedSearch
 "Search Query","Hľadaný výraz",module,Magento_AdvancedSearch
 Store,Obchod,module,Magento_AdvancedSearch
@@ -391,7 +391,7 @@ void,anulované,module,Magento_Authorizenet
 "Authorize Only","Len schváliť",module,Magento_Authorizenet
 "Authorize and Capture","Schváliť a získať",module,Magento_Authorizenet
 "Unable to get transaction details. Try again later.","Nemožno získať detaily transakcie. Skúste znova neskôr.",module,Magento_Authorizenet
-"Electronic payments save the trees.","Electronic payments save the trees.",module,Magento_Authorizenet
+"Electronic payments save the trees.","Elektronické platby zachrániť stromy.",module,Magento_Authorizenet
 "Credit Card Type","Typ kreditnej karty",module,Magento_Authorizenet
 "Please Select","Prosím, vyberte",module,Magento_Authorizenet
 "Credit Card Number","Číslo kreditnej karty",module,Magento_Authorizenet
@@ -559,7 +559,7 @@ To,Do,module,Magento_Backend
 [deleted],[zmazané],module,Magento_Backend
 "We couldn't find any records.","Nedá sa nájsť žiadny záznam.",module,Magento_Backend
 "Add New","Pridať nové",module,Magento_Backend
-"Invalid export type supplied for grid export block","Invalid export type supplied for grid export block",module,Magento_Backend
+"Invalid export type supplied for grid export block","Neplatný export typ pre mriežky vývoz blok",module,Magento_Backend
 Export,Export,module,Magento_Backend
 "Please correct the column format and try again.","Opravte formát stĺpcov a skúste znova.",module,Magento_Backend
 "Please select items.","Prosím vyberte položky.",module,Magento_Backend
@@ -620,7 +620,7 @@ System,Systém,module,Magento_Backend
 "Unable to delete the website. Please try again later.","Nie je možné odstrániť skupinu obchodov(website). Prosím, skúste znova neskôr.",module,Magento_Backend
 "The website does not exist.","Skupina obchodov(website) neexistuje.",module,Magento_Backend
 "Before modifying the website code please make sure it is not used in index.php.","Pred úpravou kódu skupiny obchodov(website) sa prosím uistite, že nie je používaný v index.php.",module,Magento_Backend
-"The store does not exist","The store does not exist",module,Magento_Backend
+"The store does not exist","Obchod neexistuje",module,Magento_Backend
 "Store view doesn't exist","Zobrazenie obchodu neexistuje",module,Magento_Backend
 "Before modifying the store view code please make sure it is not used in index.php.","Pred úpravou zobrazenia obchodu sa prosím uistite, že nie je používaný v index.php.",module,Magento_Backend
 New,Nový,module,Magento_Backend
@@ -643,13 +643,13 @@ YTD,"Tento rok",module,Magento_Backend
 "Admin session lifetime must be greater than or equal to 60 seconds","Životnosť relácie v administrácii musí byť väčšia alebo rovná 60 sekúnd",module,Magento_Backend
 Order,Objednávka,module,Magento_Backend
 "Order #%1","Objednávka #%1",module,Magento_Backend
-"You need more permissions to access this.","You need more permissions to access this.",module,Magento_Backend
-"Sorry, you need permissions to view this content.","Sorry, you need permissions to view this content.",module,Magento_Backend
-"Next steps","Next steps",module,Magento_Backend
-"If you think this is an error, try signing out and signing in again.","If you think this is an error, try signing out and signing in again.",module,Magento_Backend
-"Contact a system administrator or store owner to gain permissions.","Contact a system administrator or store owner to gain permissions.",module,Magento_Backend
-"Return to","Return to",module,Magento_Backend
-"previous page","previous page",module,Magento_Backend
+"You need more permissions to access this.","Potrebujete ďalšie oprávnenia na prístup.",module,Magento_Backend
+"Sorry, you need permissions to view this content.","Je nám ľúto, na zobrazenie tohto obsahu potrebujete oprávnenie.",module,Magento_Backend
+"Next steps","Ďalšie kroky",module,Magento_Backend
+"If you think this is an error, try signing out and signing in again.","Ak si myslíte, že je to chyba, skúste sa odhlásiť a znova prihlásiť.",module,Magento_Backend
+"Contact a system administrator or store owner to gain permissions.","Obráťte sa na správcu systému alebo majiteľa obchodu pre získanie oprávnení.",module,Magento_Backend
+"Return to","Vrátiť na",module,Magento_Backend
+"previous page","predchádzajúca strana",module,Magento_Backend
 "Welcome, please sign in","Vitajte, prosím prihláste sa",module,Magento_Backend
 Username,"Meno používateľa",module,Magento_Backend
 "user name","meno používateľa",module,Magento_Backend
@@ -662,7 +662,7 @@ password,heslo,module,Magento_Backend
 "Last Orders","Posledné objednávky",module,Magento_Backend
 "Last Search Terms","Posledné hľadané výrazy",module,Magento_Backend
 "Top Search Terms","Najvyhľadávanejšie výrazy",module,Magento_Backend
-"There are no search keywords.","There are no search keywords.",module,Magento_Backend
+"There are no search keywords.","Neexistujú žiadne kľúčové slová.",module,Magento_Backend
 "View Statistics For:","Zobrazenie štatistických údajov pre:",module,Magento_Backend
 "All Websites","Všetky skupiny obchodov(websites)",module,Magento_Backend
 "Reload Data","Obnoviť údaje",module,Magento_Backend
@@ -686,7 +686,7 @@ Minute,Minúta,module,Magento_Backend
 "JavaScript may be disabled in your browser.","JavaScript vo vašom prehliadači môže byť vypnutý.",module,Magento_Backend
 "To use this website you must first enable JavaScript in your browser.","Pre používanie tejto internetovej stránky musíte najprv povoliť JavaScript vo vašom prehliadači.",module,Magento_Backend
 "This is only a demo store. You can browse and place orders, but nothing will be processed.","Toto je len vzorový obchod. Môžete prechádzať produkty a objednávať, ale objednávky nebudú spracované.",module,Magento_Backend
-"Report an Issue","Report an Issue",module,Magento_Backend
+"Report an Issue","Nahlásiť problém",module,Magento_Backend
 "Store View:","Pohľad obchodu:",module,Magento_Backend
 "Stores Configuration","Nastavenia obchodov",module,Magento_Backend
 "Please confirm scope switching. All data that hasn't been saved will be lost.","Potvrďte, zmenu objektíva. Všetky úpravý, ktoré ešte neboli uložené budú stratené.",module,Magento_Backend
@@ -727,7 +727,7 @@ Loading...,Načítávanie...,module,Magento_Backend
 "Magento Admin","Magento Admin",module,Magento_Backend
 "Global Search","Globálne vyhľadávanie",module,Magento_Backend
 Marketing,Marketing,module,Magento_Backend
-"SEO & Search","SEO & Search",module,Magento_Backend
+"SEO & Search","SEO a vyhľadávanie",module,Magento_Backend
 "User Content","Užívateľský obsah",module,Magento_Backend
 Content,Obsah,module,Magento_Backend
 Elements,Prvky,module,Magento_Backend
@@ -1017,8 +1017,8 @@ Error,Chyba,module,Magento_Banner
 "Related Cart Price Rules","Súvisiace pravidla cenotvorby podľa košíku",module,Magento_Banner
 "Related Catalog Price Rules","Súvisace pravidlá cenotvorby podľa katalógu",module,Magento_Banner
 "Content Area","Content Area",module,Magento_Banner
-Footer,Footer,module,Magento_Banner
-Header,Header,module,Magento_Banner
+Footer,Pätička,module,Magento_Banner
+Header,Záhlavie,module,Magento_Banner
 "Left Column","Left Column",module,Magento_Banner
 "Right Column","Right Column",module,Magento_Banner
 "Manage Banners","Spravovať Bannery",module,Magento_Banner
@@ -1101,7 +1101,7 @@ expires,expires,module,Magento_Braintree
 "PayPal Account","PayPal Account",module,Magento_Braintree
 "PayPal Logo","PayPal Logo",module,Magento_Braintree
 Actions,Actions,module,Magento_Braintree
-Delete,Delete,module,Magento_Braintree
+Delete,Zmazať,module,Magento_Braintree
 "Credit Card Information","Credit Card Information",module,Magento_Braintree
 "What is this?","What is this?",module,Magento_Braintree
 "Save for later use.","Save for later use.",module,Magento_Braintree
@@ -1410,7 +1410,7 @@ Forms,Formuláre,module,Magento_Captcha
 "If 0 is specified, CAPTCHA on the Login form will be always available.","Ak je zadaná 0, CAPTCHA na formulári prihlásiť bude vždy k dispozícii.",module,Magento_Captcha
 "CAPTCHA Timeout (minutes)","Časový limit pre CAPTCHA (minút)",module,Magento_Captcha
 "Number of Symbols","Počet symbolov",module,Magento_Captcha
-"Please specify 8 symbols at the most. Range allowed (e.g. 3-5)","Please specify 8 symbols at the most. Range allowed (e.g. 3-5)",module,Magento_Captcha
+"Please specify 8 symbols at the most. Range allowed (e.g. 3-5)","Uveďte najviac 8 znakov. Rozsah povolený (napr. 3-5)",module,Magento_Captcha
 "Symbols Used in CAPTCHA","Symboly použité v CAPTCHA",module,Magento_Captcha
 "Please use only letters (a-z or A-Z) or numbers (0-9) in this field. No spaces or other characters are allowed.<br />Similar looking characters (e.g. ""i"", ""l"", ""1"") decrease chance of correct recognition by customer.","Použite prosím iba písmená (a-z resp. A-Z) alebo čísla (0-9) v tomto políčku. Medzery ani iné znaky niesú povolené. <br />Podobné znaky (napr. ""i"", ""l"", ""1"") navyšujú pravedpodonsť omylu zákazníka.",module,Magento_Captcha
 "Case Sensitive","Rozlišovať malé a veľké písmená",module,Magento_Captcha
@@ -2757,7 +2757,7 @@ Error!,Chyba!,module,Magento_Checkout
 "DB exception","DB exception",module,Magento_Checkout
 Message,Správa,module,Magento_Checkout
 "Print receipt","Print receipt",module,Magento_Checkout
-"Apply Discount Code","Apply Discount Code",module,Magento_Checkout
+"Apply Discount Code","Použiť zľavový kód",module,Magento_Checkout
 "Enter discount code","Enter discount code",module,Magento_Checkout
 "Apply Discount","Apply Discount",module,Magento_Checkout
 "Cancel Coupon","Cancel Coupon",module,Magento_Checkout
@@ -2815,7 +2815,7 @@ Login,"Prihlásiť sa",module,Magento_Checkout
 "See Details","Pozri detaily",module,Magento_Checkout
 "Options Details","Podrobnosti možnosti",module,Magento_Checkout
 Remove,Odstrániť,module,Magento_Checkout
-"Cart Subtotal","Medzisúčet košíku",module,Magento_Checkout
+"Cart Subtotal","Medzisúčet košíka",module,Magento_Checkout
 "Payment Information","Informácie o platbe",module,Magento_Checkout
 "No Payment method available.","No Payment method available.",module,Magento_Checkout
 "You can track your order status by creating an account.","You can track your order status by creating an account.",module,Magento_Checkout
@@ -2826,7 +2826,7 @@ Remove,Odstrániť,module,Magento_Checkout
 "Ship To:","Ship To:",module,Magento_Checkout
 edit,edit,module,Magento_Checkout
 "Order Summary","Order Summary",module,Magento_Checkout
-"View and Edit Cart","View and Edit Cart",module,Magento_Checkout
+"View and Edit Cart","Zobraziť košík",module,Magento_Checkout
 "View Details","View Details",module,Magento_Checkout
 Field,Field,module,Magento_Checkout
 "is required.","is required.",module,Magento_Checkout
@@ -3787,7 +3787,7 @@ Female,Žena,module,Magento_Customer
 "Thank you for registering with","Ďakujeme vám za registráciu na",module,Magento_Customer
 "enter your billing address for proper VAT calculation","enter your billing address for proper VAT calculation",module,Magento_Customer
 "enter your shipping address for proper VAT calculation","enter your shipping address for proper VAT calculation",module,Magento_Customer
-"Please enter new password.","Please enter new password.",module,Magento_Customer
+"Please enter new password.","Zadajte nové heslo.",module,Magento_Customer
 message,správa,module,Magento_Customer
 NoSuchEntityException,NoSuchEntityException,module,Magento_Customer
 Exception,Výnimka,module,Magento_Customer
@@ -3830,7 +3830,7 @@ Change,Change,module,Magento_Customer
 "Manage Addresses","Manage Addresses",module,Magento_Customer
 "Default Shipping Address","Default Shipping Address",module,Magento_Customer
 "Contact Information","Contact Information",module,Magento_Customer
-"Change Password","Change Password",module,Magento_Customer
+"Change Password","Zmeniť heslo",module,Magento_Customer
 Newsletters,Newsletters,module,Magento_Customer
 "You are subscribed to ""General Subscription"".","You are subscribed to ""General Subscription"".",module,Magento_Customer
 or,or,module,Magento_Customer
@@ -4240,11 +4240,11 @@ Country,Country,module,Magento_CustomerCustomAttributes
 "Go back","Go back",module,Magento_CustomerCustomAttributes
 "Account Information","Account Information",module,Magento_CustomerCustomAttributes
 "Change Email","Change Email",module,Magento_CustomerCustomAttributes
-"Change Password","Change Password",module,Magento_CustomerCustomAttributes
-"Change Email and Password","Change Email and Password",module,Magento_CustomerCustomAttributes
+"Change Password","Zmeniť heslo",module,Magento_CustomerCustomAttributes
+"Change Email and Password","Zmena e-mailu a hesla",module,Magento_CustomerCustomAttributes
 Email,Email,module,Magento_CustomerCustomAttributes
-"Current Password","Current Password",module,Magento_CustomerCustomAttributes
-"New Password","New Password",module,Magento_CustomerCustomAttributes
+"Current Password","Aktuálne heslo",module,Magento_CustomerCustomAttributes
+"New Password","Nové heslo",module,Magento_CustomerCustomAttributes
 "Password Strength","Password Strength",module,Magento_CustomerCustomAttributes
 "No Password","No Password",module,Magento_CustomerCustomAttributes
 "Confirm New Password","Confirm New Password",module,Magento_CustomerCustomAttributes
@@ -4252,9 +4252,9 @@ Email,Email,module,Magento_CustomerCustomAttributes
 "Sign Up for Newsletter","Sign Up for Newsletter",module,Magento_CustomerCustomAttributes
 "Address Information","Address Information",module,Magento_CustomerCustomAttributes
 "Sign-in Information","Sign-in Information",module,Magento_CustomerCustomAttributes
-Password,Password,module,Magento_CustomerCustomAttributes
-"Confirm Password","Confirm Password",module,Magento_CustomerCustomAttributes
-"Create an Account","Create an Account",module,Magento_CustomerCustomAttributes
+Password,Heslo,module,Magento_CustomerCustomAttributes
+"Confirm Password","Potvrdiť heslo",module,Magento_CustomerCustomAttributes
+"Create an Account","Vytvoriť účet",module,Magento_CustomerCustomAttributes
 Back,Back,module,Magento_CustomerCustomAttributes
 "Customer Address","Customer Address",module,Magento_CustomerCustomAttributes
 "Default Values","Default Values",module,Magento_CustomerCustomAttributes
@@ -4489,8 +4489,8 @@ Debug,Debug,module,Magento_Cybersource
 "Credit Card Types","Credit Card Types",module,Magento_Cybersource
 "Payment from Applicable Countries","Payment from Applicable Countries",module,Magento_Cybersource
 "Payment from Specific Countries","Payment from Specific Countries",module,Magento_Cybersource
-"Minimum Order Total","Minimum Order Total",module,Magento_Cybersource
-"Maximum Order Total","Maximum Order Total",module,Magento_Cybersource
+"Minimum Order Total","Minimálna suma objednávky",module,Magento_Cybersource
+"Maximum Order Total","Maximálna suma objednávky",module,Magento_Cybersource
 "Sort Order","Sort Order",module,Magento_Cybersource
 "Import failed: %1","Import failed: %1",module,Magento_Deploy
 "Class for type ""%1"" was not declared","Class for type ""%1"" was not declared",module,Magento_Deploy
@@ -4584,7 +4584,7 @@ Field,Field,module,Magento_Dhl
 "Gateway URL","Gateway URL",module,Magento_Dhl
 Title,Title,module,Magento_Dhl
 "Access ID","Access ID",module,Magento_Dhl
-Password,Password,module,Magento_Dhl
+Password,Heslo,module,Magento_Dhl
 "Account Number","Account Number",module,Magento_Dhl
 "Content Type","Content Type",module,Magento_Dhl
 "Calculate Handling Fee","Calculate Handling Fee",module,Magento_Dhl
@@ -5144,7 +5144,7 @@ Title,Title,module,Magento_Fedex
 "Please make sure to use only digits here. No dashes are allowed.","Please make sure to use only digits here. No dashes are allowed.",module,Magento_Fedex
 "Meter Number","Meter Number",module,Magento_Fedex
 Key,Key,module,Magento_Fedex
-Password,Password,module,Magento_Fedex
+Password,Heslo,module,Magento_Fedex
 "Sandbox Mode","Sandbox Mode",module,Magento_Fedex
 "Web-Services URL (Production)","Web-Services URL (Production)",module,Magento_Fedex
 "Web-Services URL (Sandbox)","Web-Services URL (Sandbox)",module,Magento_Fedex
@@ -6332,8 +6332,8 @@ No,Nie,module,Magento_LayeredNavigation
 Position,Position,module,Magento_LayeredNavigation
 "Position in Layered Navigation","Position in Layered Navigation",module,Magento_LayeredNavigation
 "Position of attribute in layered navigation block.","Position of attribute in layered navigation block.",module,Magento_LayeredNavigation
-item,item,module,Magento_LayeredNavigation
-items,items,module,Magento_LayeredNavigation
+item,položka,module,Magento_LayeredNavigation
+items,položky,module,Magento_LayeredNavigation
 "Now Shopping by","Now Shopping by",module,Magento_LayeredNavigation
 Previous,Previous,module,Magento_LayeredNavigation
 Remove,Remove,module,Magento_LayeredNavigation
@@ -6423,7 +6423,7 @@ Flush,Flush,module,Magento_Logging
 Fetch,Fetch,module,Magento_Logging
 "Update Payment","Update Payment",module,Magento_Logging
 "Update State","Update State",module,Magento_Logging
-Login,Login,module,Magento_Logging
+Login,"Prihlásiť sa",module,Magento_Logging
 Send,Send,module,Magento_Logging
 Create,Create,module,Magento_Logging
 "Catalog Products","Catalog Products",module,Magento_Logging
@@ -6630,13 +6630,13 @@ Customers,Customers,module,Magento_MultipleWishlist
 InvalidArgumentException,InvalidArgumentException,module,Magento_MultipleWishlist
 Refresh,Refresh,module,Magento_MultipleWishlist
 "All Wish Lists","All Wish Lists",module,Magento_MultipleWishlist
-Item,Item,module,Magento_MultipleWishlist
+Item,Položka,module,Magento_MultipleWishlist
 Qty,Qty,module,Magento_MultipleWishlist
 Price,Price,module,Magento_MultipleWishlist
 Remove,Remove,module,Magento_MultipleWishlist
 "Add To Order","Add To Order",module,Magento_MultipleWishlist
 "Configure and Add to Order","Configure and Add to Order",module,Magento_MultipleWishlist
-"No items","No items",module,Magento_MultipleWishlist
+"No items","Žiadne položky",module,Magento_MultipleWishlist
 "Delete Wish List","Delete Wish List",module,Magento_MultipleWishlist
 Owner,Owner,module,Magento_MultipleWishlist
 Name,Name,module,Magento_MultipleWishlist
@@ -6769,11 +6769,11 @@ Change,Change,module,Magento_Multishipping
 "Incl. Tax","Incl. Tax",module,Magento_Multishipping
 "Excl. Tax","Excl. Tax",module,Magento_Multishipping
 "Order Review","Order Review",module,Magento_Multishipping
-Item,Item,module,Magento_Multishipping
+Item,Položka,module,Magento_Multishipping
 Edit,Edit,module,Magento_Multishipping
 Price,Price,module,Magento_Multishipping
 Subtotal,Subtotal,module,Magento_Multishipping
-Items,Items,module,Magento_Multishipping
+Items,Položky,module,Magento_Multishipping
 "Grand Total:","Grand Total:",module,Magento_Multishipping
 "Submitting order information...","Submitting order information...",module,Magento_Multishipping
 "Sorry, no quotes are available for this order right now.","Sorry, no quotes are available for this order right now.",module,Magento_Multishipping
@@ -6993,8 +6993,8 @@ Title,Title,module,Magento_OfflinePayments
 "Payment from Applicable Countries","Payment from Applicable Countries",module,Magento_OfflinePayments
 "Payment from Specific Countries","Payment from Specific Countries",module,Magento_OfflinePayments
 "Make Check Payable to","Make Check Payable to",module,Magento_OfflinePayments
-"Minimum Order Total","Minimum Order Total",module,Magento_OfflinePayments
-"Maximum Order Total","Maximum Order Total",module,Magento_OfflinePayments
+"Minimum Order Total","Minimálna suma objednávky",module,Magento_OfflinePayments
+"Maximum Order Total","Maximálna suma objednávky",module,Magento_OfflinePayments
 "Purchase Order","Purchase Order",module,Magento_OfflinePayments
 "Bank Transfer Payment","Bank Transfer Payment",module,Magento_OfflinePayments
 Instructions,Instructions,module,Magento_OfflinePayments
@@ -7017,7 +7017,7 @@ Region/State,Region/State,module,Magento_OfflineShipping
 "Please correct Table Rate code for type %1: %2.","Please correct Table Rate code for type %1: %2.",module,Magento_OfflineShipping
 None,None,module,Magento_OfflineShipping
 "Per Order","Per Order",module,Magento_OfflineShipping
-"Per Item","Per Item",module,Magento_OfflineShipping
+"Per Item","Za položku",module,Magento_OfflineShipping
 "Unable to import data","Unable to import data",module,Magento_OfflineShipping
 "Something went wrong while importing table rates.","Something went wrong while importing table rates.",module,Magento_OfflineShipping
 "We couldn't import this file because of these errors: %1","We couldn't import this file because of these errors: %1",module,Magento_OfflineShipping
@@ -7170,7 +7170,7 @@ Order,Order,module,Magento_Paypal
 Purchased,Purchased,module,Magento_Paypal
 "Bill-to Name","Bill-to Name",module,Magento_Paypal
 "Ship-to Name","Ship-to Name",module,Magento_Paypal
-"Order Total","Order Total",module,Magento_Paypal
+"Order Total",Celkom,module,Magento_Paypal
 "Purchase Point","Purchase Point",module,Magento_Paypal
 "Billing Agreement View","Billing Agreement View",module,Magento_Paypal
 "View Transaction Details","View Transaction Details",module,Magento_Paypal
@@ -7545,7 +7545,7 @@ Edit,Edit,module,Magento_Paypal
 "Edit Shopping Cart","Upraviť košík",module,Magento_Paypal
 "Place Order","Place Order",module,Magento_Paypal
 "Submitting order information...","Submitting order information...",module,Magento_Paypal
-Item,Item,module,Magento_Paypal
+Item,Položka,module,Magento_Paypal
 Price,Price,module,Magento_Paypal
 Qty,Qty,module,Magento_Paypal
 Subtotal,Subtotal,module,Magento_Paypal
@@ -7676,8 +7676,8 @@ Enabled,Enabled,module,Magento_Paypal
 "Allow in Billing Agreement Wizard","Allow in Billing Agreement Wizard",module,Magento_Paypal
 "Settlement Report Settings","Settlement Report Settings",module,Magento_Paypal
 "SFTP Credentials","SFTP Credentials",module,Magento_Paypal
-Login,Login,module,Magento_Paypal
-Password,Password,module,Magento_Paypal
+Login,"Prihlásiť sa",module,Magento_Paypal
+Password,Heslo,module,Magento_Paypal
 "Custom Endpoint Hostname or IP-Address","Custom Endpoint Hostname or IP-Address",module,Magento_Paypal
 "By default it is ""reports.paypal.com"".","By default it is ""reports.paypal.com"".",module,Magento_Paypal
 "Use colon to specify port. For example: ""test.example.com:5224"".","Use colon to specify port. For example: ""test.example.com:5224"".",module,Magento_Paypal
@@ -8183,7 +8183,7 @@ Orders,Orders,module,Magento_Reports
 "Offline Refunds","Offline Refunds",module,Magento_Reports
 "Total Ordered Report","Total Ordered Report",module,Magento_Reports
 "Sales Items","Sales Items",module,Magento_Reports
-Items,Items,module,Magento_Reports
+Items,Položky,module,Magento_Reports
 Revenue,Revenue,module,Magento_Reports
 Profit,Profit,module,Magento_Reports
 Invoiced,Invoiced,module,Magento_Reports
@@ -8212,7 +8212,7 @@ Customers,Customers,module,Magento_Reports
 ID,ID,module,Magento_Reports
 "First Name","First Name",module,Magento_Reports
 "Last Name","Last Name",module,Magento_Reports
-"Items in Cart","Items in Cart",module,Magento_Reports
+"Items in Cart","Položiek v košíku",module,Magento_Reports
 "Products in carts","Products in carts",module,Magento_Reports
 Carts,Carts,module,Magento_Reports
 Name,Name,module,Magento_Reports
@@ -8293,7 +8293,7 @@ Marketing,Marketing,module,Magento_Reports
 "By Customers","By Customers",module,Magento_Reports
 "By Products","By Products",module,Magento_Reports
 Refunds,Refunds,module,Magento_Reports
-"Order Total","Order Total",module,Magento_Reports
+"Order Total",Celkom,module,Magento_Reports
 "Order Count","Order Count",module,Magento_Reports
 New,New,module,Magento_Reports
 Ordered,Ordered,module,Magento_Reports
@@ -8342,6 +8342,7 @@ Action,Action,module,Magento_Reports
 Report,Report,module,Magento_Reports
 Description,Description,module,Magento_Reports
 undefined,undefined,module,Magento_Reports
+"Item in Cart","Položka v košíku",module,Magento_Reports
 "Save Review","Save Review",module,Magento_Review
 "New Review","New Review",module,Magento_Review
 "Review Details","Review Details",module,Magento_Review
@@ -8686,7 +8687,7 @@ Add,Add,module,Magento_Rma
 "Custom Value","Custom Value",module,Magento_Rma
 "Print Shipping Label","Print Shipping Label",module,Magento_Rma
 "Show Packages","Show Packages",module,Magento_Rma
-Items,Items,module,Magento_Rma
+Items,Položky,module,Magento_Rma
 "Return Items","Return Items",module,Magento_Rma
 Product,Product,module,Magento_Rma
 SKU,SKU,module,Magento_Rma
@@ -8912,7 +8913,7 @@ Number,Number,module,Magento_Rma
 "RMA Items Requested for","RMA Items Requested for",module,Magento_Rma
 "Please Select Products to Add","Please Select Products to Add",module,Magento_Rma
 Remove,Remove,module,Magento_Rma
-Item,Item,module,Magento_Rma
+Item,Položka,module,Magento_Rma
 "Return items","Return items",module,Magento_Rma
 Sub-items,Sub-items,module,Magento_Rma
 "Quantity To Return","Quantity To Return",module,Magento_Rma
@@ -9550,7 +9551,7 @@ Apply,Apply,module,Magento_Sales
 Remove,Remove,module,Magento_Sales
 "Address Information","Address Information",module,Magento_Sales
 "Payment &amp; Shipping Information","Payment &amp; Shipping Information",module,Magento_Sales
-"Order Total","Order Total",module,Magento_Sales
+"Order Total",Celkom,module,Magento_Sales
 "Order Currency:","Order Currency:",module,Magento_Sales
 "Same As Billing Address","Same As Billing Address",module,Magento_Sales
 "Select from existing customer addresses:","Select from existing customer addresses:",module,Magento_Sales
@@ -9577,10 +9578,10 @@ Subtotal:,Subtotal:,module,Magento_Sales
 "You don't need to select a shipping method.","You don't need to select a shipping method.",module,Magento_Sales
 "Customer's Activities","Customer's Activities",module,Magento_Sales
 Refresh,Refresh,module,Magento_Sales
-Item,Item,module,Magento_Sales
+Item,Položka,module,Magento_Sales
 "Add To Order","Add To Order",module,Magento_Sales
 "Configure and Add to Order","Configure and Add to Order",module,Magento_Sales
-"No items","No items",module,Magento_Sales
+"No items","Žiadne položky",module,Magento_Sales
 "Append Comments","Append Comments",module,Magento_Sales
 "Email Order Confirmation","Email Order Confirmation",module,Magento_Sales
 "Grand Total Excl. Tax","Grand Total Excl. Tax",module,Magento_Sales
@@ -9603,7 +9604,7 @@ Item,Item,module,Magento_Sales
 "Email Copy of Credit Memo","Email Copy of Credit Memo",module,Magento_Sales
 "Please enter a positive number in this field.","Please enter a positive number in this field.",module,Magento_Sales
 "Items Refunded","Items Refunded",module,Magento_Sales
-"No Items","No Items",module,Magento_Sales
+"No Items","Žiadne položky",module,Magento_Sales
 "Memo Total","Memo Total",module,Magento_Sales
 "Credit Memo History","Credit Memo History",module,Magento_Sales
 "Credit Memo Totals","Credit Memo Totals",module,Magento_Sales
@@ -9628,7 +9629,7 @@ Amount,Amount,module,Magento_Sales
 "Not Capture","Not Capture",module,Magento_Sales
 "The invoice will be created offline without the payment gateway.","The invoice will be created offline without the payment gateway.",module,Magento_Sales
 "Email Copy of Invoice","Email Copy of Invoice",module,Magento_Sales
-"Items Invoiced","Items Invoiced",module,Magento_Sales
+"Items Invoiced","Fakturované položky",module,Magento_Sales
 "Total Tax","Total Tax",module,Magento_Sales
 "From Name","From Name",module,Magento_Sales
 "To Name","To Name",module,Magento_Sales
@@ -9658,7 +9659,7 @@ Comment,Comment,module,Magento_Sales
 "Created At","Created At",module,Magento_Sales
 "Child Transactions","Child Transactions",module,Magento_Sales
 "Transaction Details","Transaction Details",module,Magento_Sales
-Items,Items,module,Magento_Sales
+Items,Položky,module,Magento_Sales
 "Gift Message for this Order","Gift Message for this Order",module,Magento_Sales
 "Shipped By","Shipped By",module,Magento_Sales
 "Tracking Number","Tracking Number",module,Magento_Sales
@@ -10046,7 +10047,7 @@ Inactive,Inactive,module,Magento_SalesRule
 "Some coupons are invalid.","Some coupons are invalid.",module,Magento_SalesRule
 "Item totals are not set for the rule.","Item totals are not set for the rule.",module,Magento_SalesRule
 "%1 Cart Price Rules based on ""%2"" attribute have been disabled.","%1 Cart Price Rules based on ""%2"" attribute have been disabled.",module,Magento_SalesRule
-"Apply Discount Code","Apply Discount Code",module,Magento_SalesRule
+"Apply Discount Code","Použiť zľavový kód",module,Magento_SalesRule
 "Enter discount code","Enter discount code",module,Magento_SalesRule
 "Apply Discount","Apply Discount",module,Magento_SalesRule
 "Cancel coupon","Cancel coupon",module,Magento_SalesRule
@@ -10167,7 +10168,7 @@ Status,Status,module,Magento_ScheduledImportExport
 "For Type ""Local Server"" use relative path to Magento installation, e.g. var/export, var/import, var/export/some/dir","For Type ""Local Server"" use relative path to Magento installation, e.g. var/export, var/import, var/export/some/dir",module,Magento_ScheduledImportExport
 "FTP Host[:Port]","FTP Host[:Port]",module,Magento_ScheduledImportExport
 "User Name","User Name",module,Magento_ScheduledImportExport
-Password,Password,module,Magento_ScheduledImportExport
+Password,Heslo,module,Magento_ScheduledImportExport
 "File Mode","File Mode",module,Magento_ScheduledImportExport
 "Passive Mode","Passive Mode",module,Magento_ScheduledImportExport
 "Failed Email Receiver","Failed Email Receiver",module,Magento_ScheduledImportExport
@@ -10340,7 +10341,7 @@ Reports,Reports,module,Magento_Search
 Delete,Delete,module,Magento_Search
 "Are you sure you want to delete synonym group with id: %1?","Are you sure you want to delete synonym group with id: %1?",module,Magento_Search
 View/Edit,View/Edit,module,Magento_Search
-"Search entire store here...","Search entire store here...",module,Magento_Search
+"Search entire store here...","Hľadať celý obchod tu...",module,Magento_Search
 "There are no search terms available.","There are no search terms available.",module,Magento_Search
 "Search Engine","Search Engine",module,Magento_Search
 CSV,CSV,module,Magento_Search
@@ -10571,7 +10572,7 @@ Action,Action,module,Magento_Shipping
 "Shipping and Tracking Information","Shipping and Tracking Information",module,Magento_Shipping
 "Track this shipment","Track this shipment",module,Magento_Shipping
 "Items Shipped","Items Shipped",module,Magento_Shipping
-"Order Total","Order Total",module,Magento_Shipping
+"Order Total",Celkom,module,Magento_Shipping
 "Shipment History","Shipment History",module,Magento_Shipping
 "Qty Shipped","Qty Shipped",module,Magento_Shipping
 "Print All Shipments","Print All Shipments",module,Magento_Shipping
@@ -10584,7 +10585,7 @@ SKU,SKU,module,Magento_Shipping
 Carrier:,Carrier:,module,Magento_Shipping
 Error:,Error:,module,Magento_Shipping
 "Tracking information is currently not available. Please","Tracking information is currently not available. Please",module,Magento_Shipping
-"contact us","contact us",module,Magento_Shipping
+"contact us","kontaktujte nás",module,Magento_Shipping
 "for more information or","for more information or",module,Magento_Shipping
 "email us at","email us at",module,Magento_Shipping
 Info:,Info:,module,Magento_Shipping
@@ -11424,7 +11425,7 @@ Rate,Rate,module,Magento_Tax
 "(Incl. Tax)","(Incl. Tax)",module,Magento_Tax
 "Order Total Excl. Tax","Order Total Excl. Tax",module,Magento_Tax
 "Order Total Incl. Tax","Order Total Incl. Tax",module,Magento_Tax
-"Order Total","Order Total",module,Magento_Tax
+"Order Total",Celkom,module,Magento_Tax
 "Your credit card will be charged for","Your credit card will be charged for",module,Magento_Tax
 "An error occurred while loading tax rates.","An error occurred while loading tax rates.",module,Magento_Tax
 Code,Code,module,Magento_TaxImportExport
@@ -12692,7 +12693,7 @@ Conditions,Conditions,module,Magento_Widget
 "The requested Wish List doesn't exist.","The requested Wish List doesn't exist.",module,Magento_Wishlist
 "We can't create the Wish List right now.","We can't create the Wish List right now.",module,Magento_Wishlist
 "%1 items","%1 items",module,Magento_Wishlist
-"1 item","1 item",module,Magento_Wishlist
+"1 item","1 položka",module,Magento_Wishlist
 Comment,Comment,module,Magento_Wishlist
 "Display number of items in wish list","Display number of items in wish list",module,Magento_Wishlist
 "Display item quantities","Display item quantities",module,Magento_Wishlist
@@ -12840,7 +12841,7 @@ Summary,Zhrnutie,theme,frontend/Magento/blank
 Menu,Ponuka,theme,frontend/Magento/blank
 Account,Účet,theme,frontend/Magento/blank
 Settings,Nastavenia,theme,frontend/Magento/blank
-"Now Shopping by","Now Shopping by",theme,frontend/Magento/luma
+"Now Shopping by","Filtrovať podľa",theme,frontend/Magento/luma
 Previous,Predchádzajúca,theme,frontend/Magento/luma
 Remove,Odstrániť,theme,frontend/Magento/luma
 "Remove This Item","Odstrániť túto položku",theme,frontend/Magento/luma
@@ -12857,12 +12858,12 @@ Password:,Heslo:,theme,frontend/Magento/luma
 "Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","Zabudli ste heslo k vášmu účtu? Kliknutím na následujúci odkaz ho <a href=""%reset_url"">resetujete</a>.",theme,frontend/Magento/luma
 "When you sign in to your account, you will be able to:","Po prihlásení do svojho účtu, budete môcť:",theme,frontend/Magento/luma
 "Quick Checkout","Objednať bez registrácie",theme,frontend/Magento/luma
-"Proceed through checkout faster","Rýchľejšie objednanie",theme,frontend/Magento/luma
+"Proceed through checkout faster","Rýchlejšie objednanie",theme,frontend/Magento/luma
 "Order Status","Stav objednávky",theme,frontend/Magento/luma
-"Check the status of orders","Skontrolovať stavy objednáviek",theme,frontend/Magento/luma
+"Check the status of orders","Skontrolovať stavy objednávok",theme,frontend/Magento/luma
 "Manage Addresses","Upraviť adresy",theme,frontend/Magento/luma
 "Store alternative addresses","Uloženie alternatívnych adries",theme,frontend/Magento/luma
-"For shipping to multiple family members and friends","Pre doručenie dalším členom rodiny a priateľom",theme,frontend/Magento/luma
+"For shipping to multiple family members and friends","Pre doručenie ďalším členom rodiny a priateľom",theme,frontend/Magento/luma
 "Order History","História objednávok",theme,frontend/Magento/luma
 "View past orders","Zobraziť staršie objednávky",theme,frontend/Magento/luma
 Footer,Pätička,theme,frontend/Magento/luma
@@ -12880,20 +12881,20 @@ Footer,Pätička,theme,frontend/Magento/luma
 "Payment Method","Spôsob platby",theme,frontend/Magento/luma
 "Shipping Method","Spôsob dopravy",theme,frontend/Magento/luma
 "Update to your %store_name credit memo","Update to your %store_name credit memo",theme,frontend/Magento/luma
-"Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","U vašej objednávky #%increment_id bol aktualizovaný stav na <strong>%order_status</strong>.",theme,frontend/Magento/luma
-"Invoice for your %store_name order","Invoice for your %store_name order",theme,frontend/Magento/luma
+"Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","Vaša objednávka #%increment_id bola aktualizovaná na stav <strong>%order_status</strong>.",theme,frontend/Magento/luma
+"Invoice for your %store_name order","Faktúra za Vašu %store_name objednávku",theme,frontend/Magento/luma
 "Your Invoice #%invoice_id for Order #%order_id","Vaša faktúra #%invoice_id pre objednávku #%order_id",theme,frontend/Magento/luma
-"Update to your %store_name invoice","Update to your %store_name invoice",theme,frontend/Magento/luma
-"Your %store_name order confirmation","Your %store_name order confirmation",theme,frontend/Magento/luma
+"Update to your %store_name invoice","Aktualizácia Vašej %store_name faktúry",theme,frontend/Magento/luma
+"Your %store_name order confirmation","Potvrdenie Vašej %store_name objednávky",theme,frontend/Magento/luma
 "%customer_name,","%customer_name,",theme,frontend/Magento/luma
 "Once your package ships we will send you a tracking number.","Akonáhle Váš balík odošleme, zašleme Vám sledovacie číslo.",theme,frontend/Magento/luma
 "Your Order <span class=""no-link"">#%increment_id</span>","Vaša objednávka <span class=""no-link"">#%increment_id</span>",theme,frontend/Magento/luma
 "Placed on <span class=""no-link"">%created_at</span>","Vytvorená <span class=""no-link"">%created_at</span>",theme,frontend/Magento/luma
-"Update to your %store_name order","Update to your %store_name order",theme,frontend/Magento/luma
-"Your %store_name order has shipped","Your %store_name order has shipped",theme,frontend/Magento/luma
+"Update to your %store_name order","Aktualizácia Vašej %store_name objednávky",theme,frontend/Magento/luma
+"Your %store_name order has shipped","Vaša %store_name objednávka bola odoslaná",theme,frontend/Magento/luma
 "Your shipping confirmation is below. Thank you again for your business.","Nižšie je Vaša potvrdenie o odoslaní. Děkuji za vaše podnikanie.",theme,frontend/Magento/luma
 "Your Shipment #%shipment_id for Order #%order_id","Odosolanie #%shipment_id pre objednávku #%order_id",theme,frontend/Magento/luma
-"Update to your %store_name shipment","Update to your %store_name shipment",theme,frontend/Magento/luma
+"Update to your %store_name shipment","Aktualizujte vašu zásielku %store_name",theme,frontend/Magento/luma
 "Account Dashboard","Prehľad účtu",theme,frontend/Magento/luma
 "Address Book",Adresár,theme,frontend/Magento/luma
 "Account Information","Informácie o účte",theme,frontend/Magento/luma
