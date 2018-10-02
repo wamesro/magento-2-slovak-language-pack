@@ -2854,7 +2854,7 @@
 "Error!","Chyba!",module,Magento_Checkout
 "DB exception","DB exception",module,Magento_Checkout
 "Message","Správa",module,Magento_Checkout
-"Print receipt","Print receipt",module,Magento_Checkout
+"Print receipt","Vytlačiť potvrdenie",module,Magento_Checkout
 "Apply Discount Code","Použiť zľavový kód",module,Magento_Checkout
 "Enter discount code","Enter discount code",module,Magento_Checkout
 "Apply Discount","Apply Discount",module,Magento_Checkout
