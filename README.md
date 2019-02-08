@@ -21,7 +21,7 @@ Read more [Magento 2 Slovak Language Pack](https://www.mageplaza.com/magento-2-s
 
 This is status of Slovak Language Pack, you can see how many percentage of this project has been done.
 
-![language pack](http://progressed.io/bar/21?title=translated)
+![language pack](http://progressed.io/bar/19?title=translated)
 
 It is not fully translated? Feel free to contribute:
 - [On Crowdin](https://crowdin.com/project/magento-2): It takes time to approve your contribution by Magento team.
