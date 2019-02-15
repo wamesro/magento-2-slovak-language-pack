@@ -1,7 +1,7 @@
 All,Všetky,module,Magento_AdminGws
 None,Žiadne,module,Magento_AdminGws
 "Allowed Scopes","Povolené rozsahy",module,Magento_AdminGws
-"More permissions are needed to delete the ""%1"" item.","More permissions are needed to delete the ""%1"" item.",module,Magento_AdminGws
+"More permissions are needed to delete the ""%1"" item.","Na odstránenie položky ""%1"" sú potrebné ďalšie povolenia.",module,Magento_AdminGws
 "You need more permissions to apply some of the rule updates.","Potrebujete vyššie oprávnenie pre aktualizácie pravidla.",module,Magento_AdminGws
 "This entity needs to be assigned to a store view. Verify the entity assignment and try again.","This entity needs to be assigned to a store view. Verify the entity assignment and try again.",module,Magento_AdminGws
 "Orders can only be completed in an active store. Verify the store and try again.","Orders can only be completed in an active store. Verify the store and try again.",module,Magento_AdminGws
