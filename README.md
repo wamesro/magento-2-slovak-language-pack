@@ -6,6 +6,7 @@ Magento 2 Slovak Language Package gives you full of the guides for this in-line 
 
 Read more [Magento 2 Slovak Language Pack](https://www.mageplaza.com/magento-2-slovak-language-pack.html)
 
+![Mageplaza Slovak language pack](https://i.imgur.com/qjWPj1W.png)
 
 ## Overview
 
