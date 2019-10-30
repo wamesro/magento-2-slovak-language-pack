@@ -3389,7 +3389,7 @@ Time in seconds between the widget updates.,module,Magento_CatalogWidget
 "Close","Zavrieť",module,Magento_Checkout
 "item","položka",module,Magento_Checkout
 "items","položky",module,Magento_Checkout
-"Go to Checkout","Go to Checkout",module,Magento_Checkout
+"Go to Checkout","Prejsť do obchodu",module,Magento_Checkout
 "Recently added item(s)","Recently added item(s)",module,Magento_Checkout
 "View and edit cart","Zobraziť košík",module,Magento_Checkout
 "No Payment Methods","No Payment Methods",module,Magento_Checkout
