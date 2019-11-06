@@ -1028,7 +1028,7 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essential
 "Invalid security or form key. Please refresh the page.","Invalid security or form key. Please refresh the page.",module,Magento_Backend
 "An item needs to be selected. Select and try again.","An item needs to be selected. Select and try again.",module,Magento_Backend
 "These cache type(s) don't exist: %1","These cache type(s) don't exist: %1",module,Magento_Backend
-"The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.","The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.",module,Magento_Backend
+"The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.","Prihlásenie do účtu bolo nesprávne alebo bol váš účet dočasne zablokovaný. Počkajte a skúste to neskôr znova.",module,Magento_Backend
 "An authentication error occurred. Verify and try again.","An authentication error occurred. Verify and try again.",module,Magento_Backend
 "The Admin session lifetime is invalid. Set the lifetime to 31536000 seconds (one year) or shorter and try again.","The Admin session lifetime is invalid. Set the lifetime to 31536000 seconds (one year) or shorter and try again.",module,Magento_Backend
 "The Admin session lifetime is invalid. Set the lifetime to 60 seconds or longer and try again.","The Admin session lifetime is invalid. Set the lifetime to 60 seconds or longer and try again.",module,Magento_Backend
@@ -1679,7 +1679,7 @@ and the product descriptor can be up to 18, 14, or 9 characters respectively (wi
 "Incorrect CAPTCHA","Nesprávna CAPTCHA",module,Magento_Captcha
 "Incorrect CAPTCHA.","Nesprávna CAPTCHA.",module,Magento_Captcha
 "The account is locked. Please wait and try again or contact %1.","Konto je uzamknuté. Počkajte a skúste to znova alebo kontaktujte %1.",module,Magento_Captcha
-"Please enter the letters and numbers from the image","Please enter the letters and numbers from the image",module,Magento_Captcha
+"Please enter the letters and numbers from the image","Zadajte písmená a čísla z obrázka",module,Magento_Captcha
 "<strong>Attention</strong>: Captcha is case sensitive.","<strong>Pozor</strong>: Rozlišujte malé a veľké písmená.",module,Magento_Captcha
 "Reload captcha","Obnoviť",module,Magento_Captcha
 "Please type the letters and numbers below","Please type the letters and numbers below",module,Magento_Captcha
@@ -1941,8 +1941,8 @@ and the product descriptor can be up to 18, 14, or 9 characters respectively (wi
 "You removed product %1 from the comparison list.","Produkt %1 bol odobraný zo zoznamu na porovnanie.",module,Magento_Catalog
 "1 item","1 položka",module,Magento_Catalog
 "%1 items","%1 položiek",module,Magento_Catalog
-"Are you sure you want to remove this item from your Compare Products list?","Are you sure you want to remove this item from your Compare Products list?",module,Magento_Catalog
-"Are you sure you want to remove all items from your Compare Products list?","Are you sure you want to remove all items from your Compare Products list?",module,Magento_Catalog
+"Are you sure you want to remove this item from your Compare Products list?","Naozaj chcete odstrániť túto položku zo zoznamu porovnávania produktov?",module,Magento_Catalog
+"Are you sure you want to remove all items from your Compare Products list?","Naozaj chcete odstrániť všetky položky zo zoznamu porovnávania produktov?",module,Magento_Catalog
 "Invalid attribute %1","Neplatný atribút %1",module,Magento_Catalog
 "Grid","Mriežka",module,Magento_Catalog
 "List","Zoznam",module,Magento_Catalog
@@ -3267,8 +3267,8 @@ Time in seconds between the widget updates.,module,Magento_CatalogWidget
 "Message","Správa",module,Magento_Checkout
 "Print receipt","Vytlačiť potvrdenie",module,Magento_Checkout
 "Apply Discount Code","Použiť zľavový kód",module,Magento_Checkout
-"Enter discount code","Enter discount code",module,Magento_Checkout
-"Apply Discount","Apply Discount",module,Magento_Checkout
+"Enter discount code","Vlož zľavový kód",module,Magento_Checkout
+"Apply Discount","Použiť zľavu",module,Magento_Checkout
 "Cancel Coupon","Cancel Coupon",module,Magento_Checkout
 "Shopping Cart Items","Položky nákupného košíku",module,Magento_Checkout
 "Item","Položka",module,Magento_Checkout
@@ -4085,7 +4085,7 @@ for the following reason:",module,Magento_Company
 "This customer is a user of a different company. If you proceed, the customer will be unlinked from the current company and linked to the selected company.","This customer is a user of a different company. If you proceed, the customer will be unlinked from the current company and linked to the selected company.",module,Magento_Company
 "Change Company?","Change Company?",module,Magento_Company
 "Associate to Company","Associate to Company",module,Magento_Company
-"My Orders","My Orders",module,Magento_Company
+"My Orders","Moje objednávky",module,Magento_Company
 "Create New Customer","Create New Customer",module,Magento_Company
 "Create New Company Account","Create New Company Account",module,Magento_Company
 "Name","Meno",module,Magento_Company
@@ -5024,7 +5024,7 @@ new products will be created. Use this step to customize images and price for yo
 "Change","Zmeniť",module,Magento_Customer
 "Manage Addresses","Upraviť adresy",module,Magento_Customer
 "Default Shipping Address","Predvolená adresa doručenia",module,Magento_Customer
-"Contact Information","Contact Information",module,Magento_Customer
+"Contact Information","Kontaktné informácie",module,Magento_Customer
 "Change Password","Zmeniť heslo",module,Magento_Customer
 "Newsletters","Newsletters",module,Magento_Customer
 "You are subscribed to ""General Subscription"".","You are subscribed to ""General Subscription"".",module,Magento_Customer
@@ -5294,7 +5294,7 @@ Email template chosen based on theme fallback when ""Default"" option is selecte
 " Example: "," Example: ",module,Magento_Customer
 "If you believe it is the right one you can ignore this notice.","If you believe it is the right one you can ignore this notice.",module,Magento_Customer
 "Invalid Form Key. Please refresh the page.","Neplatný kľúč Formuláru. Prosím obnovte stránku.",module,Magento_Customer
-"The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.","The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.",module,Magento_Customer
+"The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.","Prihlásenie do účtu bolo nesprávne alebo bol váš účet dočasne zablokovaný. Počkajte a skúste to neskôr znova.",module,Magento_Customer
 "The password doesn't match this account. Verify the password and try again.","The password doesn't match this account. Verify the password and try again.",module,Magento_Customer
 "The email address is incorrect. Verify the email address and try again.","The email address is incorrect. Verify the email address and try again.",module,Magento_Customer
 "The customer ID isn't defined.","The customer ID isn't defined.",module,Magento_Customer
@@ -5525,7 +5525,7 @@ Email template chosen based on theme fallback when ""Default"" option is selecte
 "Choose Website:","Choose Website:",module,Magento_CustomerCustomAttributes
 "Please confirm site switching. All data that hasn't been saved will be lost.","Potvrďte, zmenu stránky. Všetky úpravý, ktoré ešte neboli uložené budú stratené.",module,Magento_CustomerCustomAttributes
 "* Required Fields","* Povinné políčka",module,Magento_CustomerCustomAttributes
-"Contact Information","Contact Information",module,Magento_CustomerCustomAttributes
+"Contact Information","Kontaktné informácie",module,Magento_CustomerCustomAttributes
 "Address","Adresa",module,Magento_CustomerCustomAttributes
 "Street Address","Ulica",module,Magento_CustomerCustomAttributes
 "Street Address %1","Ulica %1",module,Magento_CustomerCustomAttributes
@@ -6983,7 +6983,7 @@ Email template chosen based on theme fallback when ""Default"" option is selecte
 "Remove Item","Remove Item",module,Magento_GiftRegistry
 "Sharing Information","Sharing Information",module,Magento_GiftRegistry
 "Emails","E-maily",module,Magento_GiftRegistry
-"Send From","Send From",module,Magento_GiftRegistry
+"Send From","Odoslať z",module,Magento_GiftRegistry
 "Message","Správa",module,Magento_GiftRegistry
 "Share Gift Registry","Share Gift Registry",module,Magento_GiftRegistry
 "Gift Registry","Gift Registry",module,Magento_GiftRegistry
@@ -7387,7 +7387,7 @@ Email template chosen based on theme fallback when ""Default"" option is selecte
 "Enable Content Experiments","Enable Content Experiments",module,Magento_GoogleOptimizer
 "Category View Optimization","Category View Optimization",module,Magento_GoogleOptimizer
 "Google Analytics Enhanced Ecommerce Settings","Google Analytics Enhanced Ecommerce nastavenia",module,Magento_GoogleTagManager
-"Send to Google","Send to Google",module,Magento_GoogleTagManager
+"Send to Google","Odoslať na Google",module,Magento_GoogleTagManager
 "Yes","Áno",module,Magento_GoogleTagManager
 "No","Nie",module,Magento_GoogleTagManager
 "Creative","Creative",module,Magento_GoogleTagManager
@@ -7790,7 +7790,7 @@ e.g. var/export, var/import, var/export/some/dir",module,Magento_ImportExport
 "Period of time in seconds after which account will be unlocked.","Period of time in seconds after which account will be unlocked.",module,Magento_Integration
 "The integrations created in the config file can't be edited.","The integrations created in the config file can't be edited.",module,Magento_Integration
 "A consumer with ""%1"" ID doesn't exist. Verify the ID and try again.","A consumer with ""%1"" ID doesn't exist. Verify the ID and try again.",module,Magento_Integration
-"The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.","The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.",module,Magento_Integration
+"The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.","Prihlásenie do účtu bolo nesprávne alebo bol váš účet dočasne zablokovaný. Počkajte a skúste to neskôr znova.",module,Magento_Integration
 "The tokens couldn't be revoked.","The tokens couldn't be revoked.",module,Magento_Integration
 "An error occurred during the attempt to grant permissions. For details, see the exceptions log.","An error occurred during the attempt to grant permissions. For details, see the exceptions log.",module,Magento_Integration
 """%fieldName"" is required. Enter and try again.","""%fieldName"" is required. Enter and try again.",module,Magento_Integration
@@ -7809,7 +7809,7 @@ e.g. var/export, var/import, var/export/some/dir",module,Magento_ImportExport
 "Invitations Information","Invitations Information",module,Magento_Invitation
 "Enter Each Email on New Line","Enter Each Email on New Line",module,Magento_Invitation
 "Message","Správa",module,Magento_Invitation
-"Send From","Send From",module,Magento_Invitation
+"Send From","Odoslať z",module,Magento_Invitation
 "Invitee Group","Invitee Group",module,Magento_Invitation
 "Reset","Resetovať",module,Magento_Invitation
 "Save","Uložiť",module,Magento_Invitation
@@ -8193,7 +8193,7 @@ it will make no affect on Price filter.",module,Magento_LayeredNavigation
 "<strong style=""color:red"">Warning!</strong> Enabling MAP by default will hide all product prices on Storefront.","<strong style=""color:red"">Warning!</strong> Enabling MAP by default will hide all product prices on Storefront.",module,Magento_Msrp
 "Wishlist","Zoznam želaní",module,Magento_MultipleWishlist
 "Customer's Wish List Report","Customer's Wish List Report",module,Magento_MultipleWishlist
-"My Wish Lists","My Wish Lists",module,Magento_MultipleWishlist
+"My Wish Lists","Moje zoznamy prianí",module,Magento_MultipleWishlist
 "1 item in wish list","1 položka v zozname prianí",module,Magento_MultipleWishlist
 "%1 items in wish list","%1 položiek v zozname prianí",module,Magento_MultipleWishlist
 "Wish List Search","Wish List Search",module,Magento_MultipleWishlist
@@ -8326,7 +8326,7 @@ it will make no affect on Price filter.",module,Magento_LayeredNavigation
 "The default wish list can't be deleted.","The default wish list can't be deleted.",module,Magento_MultipleWishlist
 "Edit wish list","Edit wish list",module,Magento_MultipleWishlist
 "Change Billing Address","Zmena fakturačnej adresy",module,Magento_Multishipping
-"Ship to Multiple Addresses","Ship to Multiple Addresses",module,Magento_Multishipping
+"Ship to Multiple Addresses","Odoslať na viac adries",module,Magento_Multishipping
 "Billing Information - %1","Billing Information - %1",module,Magento_Multishipping
 "Review Order - %1","Review Order - %1",module,Magento_Multishipping
 "Total","Celkom",module,Magento_Multishipping
@@ -8336,7 +8336,7 @@ it will make no affect on Price filter.",module,Magento_LayeredNavigation
 "Edit Billing Address","Edit Billing Address",module,Magento_Multishipping
 "Edit Shipping Address","Edit Shipping Address",module,Magento_Multishipping
 "Create Billing Address","Create Billing Address",module,Magento_Multishipping
-"Create Shipping Address","Create Shipping Address",module,Magento_Multishipping
+"Create Shipping Address","Vytvoriť dodaciu adresu",module,Magento_Multishipping
 "Data saving problem","Data saving problem",module,Magento_Multishipping
 "We cannot open the overview page.","We cannot open the overview page.",module,Magento_Multishipping
 "Please agree to all Terms and Conditions before placing the order.","Please agree to all Terms and Conditions before placing the order.",module,Magento_Multishipping
@@ -8365,18 +8365,18 @@ it will make no affect on Price filter.",module,Magento_LayeredNavigation
 "Select Address","Select Address",module,Magento_Multishipping
 "Add New Address","Pridať novú adresu",module,Magento_Multishipping
 "Back to Billing Information","Back to Billing Information",module,Magento_Multishipping
-"Please select a shipping address for applicable items.","Please select a shipping address for applicable items.",module,Magento_Multishipping
+"Please select a shipping address for applicable items.","Vyberte dodaciu adresu pre príslušné položky.",module,Magento_Multishipping
 "Product","Produkt",module,Magento_Multishipping
 "Qty","Množstvo",module,Magento_Multishipping
-"Send To","Send To",module,Magento_Multishipping
+"Send To","Odoslať na",module,Magento_Multishipping
 "A shipping selection is not applicable.","A shipping selection is not applicable.",module,Magento_Multishipping
 "Actions","Akcie",module,Magento_Multishipping
 "Remove Item","Remove Item",module,Magento_Multishipping
 "Remove item","Odstrániť položku",module,Magento_Multishipping
-"Go to Shipping Information","Go to Shipping Information",module,Magento_Multishipping
-"Update Qty &amp; Addresses","Update Qty &amp; Addresses",module,Magento_Multishipping
-"Enter a New Address","Enter a New Address",module,Magento_Multishipping
-"Back to Shopping Cart","Back to Shopping Cart",module,Magento_Multishipping
+"Go to Shipping Information","Prejdite na prepravné informácie",module,Magento_Multishipping
+"Update Qty &amp; Addresses","Aktualizujte množstvo a adresy",module,Magento_Multishipping
+"Enter a New Address","Vložiť novú adresu",module,Magento_Multishipping
+"Back to Shopping Cart","Späť do nákupného košíka",module,Magento_Multishipping
 "Loading...","Načítávanie...",module,Magento_Multishipping
 "Billing Address","Adresa pre fakturáciu",module,Magento_Multishipping
 "Change","Zmeniť",module,Magento_Multishipping
@@ -8384,7 +8384,7 @@ it will make no affect on Price filter.",module,Magento_LayeredNavigation
 "Go to Review Your Order","Go to Review Your Order",module,Magento_Multishipping
 "Back to Shipping Information","Back to Shipping Information",module,Magento_Multishipping
 "Other items in your order","Other items in your order",module,Magento_Multishipping
-"Edit Items","Edit Items",module,Magento_Multishipping
+"Edit Items","Editovať položky",module,Magento_Multishipping
 "Shipping is not applicable.","Shipping is not applicable.",module,Magento_Multishipping
 "Product Name","Názov produktu",module,Magento_Multishipping
 "Check Out with Multiple Addresses","Check Out with Multiple Addresses",module,Magento_Multishipping
@@ -8483,7 +8483,7 @@ it will make no affect on Price filter.",module,Magento_LayeredNavigation
 "Amount Discount","Amount Discount",module,Magento_NegotiableQuote
 "Proposed Price","Proposed Price",module,Magento_NegotiableQuote
 "Quote Subtotal","Quote Subtotal",module,Magento_NegotiableQuote
-"My Orders","My Orders",module,Magento_NegotiableQuote
+"My Orders","Moje objednávky",module,Magento_NegotiableQuote
 "My Quotes","My Quotes",module,Magento_NegotiableQuote
 "created quote","created quote",module,Magento_NegotiableQuote
 "closed quote","closed quote",module,Magento_NegotiableQuote
@@ -8801,8 +8801,8 @@ You can set a new expiration date if you wish.",module,Magento_NegotiableQuote
 "Item in Quote","Item in Quote",module,Magento_NegotiableQuote
 "Items in Quote","Items in Quote",module,Magento_NegotiableQuote
 "Apply Discount Code","Použiť zľavový kód",module,Magento_NegotiableQuote
-"Enter discount code","Enter discount code",module,Magento_NegotiableQuote
-"Apply Discount","Apply Discount",module,Magento_NegotiableQuote
+"Enter discount code","Vlož zľavový kód",module,Magento_NegotiableQuote
+"Apply Discount","Použiť zľavu",module,Magento_NegotiableQuote
 "Cancel coupon","Cancel coupon",module,Magento_NegotiableQuote
 "Apply Gift Card","Apply Gift Card",module,Magento_NegotiableQuote
 "Enter the gift card code","Enter the gift card code",module,Magento_NegotiableQuote
@@ -10992,7 +10992,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Product","Produkt",module,Magento_RequisitionList
 "SKU","Katalógové číslo",module,Magento_RequisitionList
 "Excl. Tax","bez DPH",module,Magento_RequisitionList
-"Edit item","Edit item",module,Magento_RequisitionList
+"Edit item","Editovať položku",module,Magento_RequisitionList
 "Remove item","Odstrániť položku",module,Magento_RequisitionList
 "Select all","Select all",module,Magento_RequisitionList
 "With Selected","With Selected",module,Magento_RequisitionList
@@ -11133,7 +11133,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "You have submitted no reviews.","You have submitted no reviews.",module,Magento_Review
 "Back","Späť",module,Magento_Review
 "My Recent Reviews","My Recent Reviews",module,Magento_Review
-"View All","View All",module,Magento_Review
+"View All","Zobraziť všetky",module,Magento_Review
 "Average Customer Rating:","Average Customer Rating:",module,Magento_Review
 "Your Review","Your Review",module,Magento_Review
 "Submitted on %1","Submitted on %1",module,Magento_Review
@@ -11953,7 +11953,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Back to My Orders","Back to My Orders",module,Magento_Sales
 "View Another Order","View Another Order",module,Magento_Sales
 "About Your Refund","About Your Refund",module,Magento_Sales
-"My Orders","My Orders",module,Magento_Sales
+"My Orders","Moje objednávky",module,Magento_Sales
 "Subscribe to Order Status","Subscribe to Order Status",module,Magento_Sales
 "About Your Invoice","About Your Invoice",module,Magento_Sales
 "Print Order # %1","Print Order # %1",module,Magento_Sales
@@ -12420,9 +12420,9 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Shipment #%1","Shipment #%1",module,Magento_Sales
 "Qty Shipped","Odoslané množstvo",module,Magento_Sales
 "Recent Orders","Recent Orders",module,Magento_Sales
-"View All","View All",module,Magento_Sales
+"View All","Zobraziť všetky",module,Magento_Sales
 "Gift Message for This Order","Gift Message for This Order",module,Magento_Sales
-"Recently Ordered","Recently Ordered",module,Magento_Sales
+"Recently Ordered","Nedávno objednané",module,Magento_Sales
 "Add to Cart","Pridať do košíka",module,Magento_Sales
 "Search","Hľadať",module,Magento_Sales
 "Credit memo for your %store_name order","Credit memo for your %store_name order",module,Magento_Sales
@@ -12830,8 +12830,8 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Item totals are not set for the rule.","Item totals are not set for the rule.",module,Magento_SalesRule
 "%1 Cart Price Rules based on ""%2"" attribute have been disabled.","%1 Cart Price Rules based on ""%2"" attribute have been disabled.",module,Magento_SalesRule
 "Apply Discount Code","Použiť zľavový kód",module,Magento_SalesRule
-"Enter discount code","Enter discount code",module,Magento_SalesRule
-"Apply Discount","Apply Discount",module,Magento_SalesRule
+"Enter discount code","Vlož zľavový kód",module,Magento_SalesRule
+"Apply Discount","Použiť zľavu",module,Magento_SalesRule
 "Cancel coupon","Cancel coupon",module,Magento_SalesRule
 "Your coupon was successfully removed.","Your coupon was successfully removed.",module,Magento_SalesRule
 "Your coupon was successfully applied.","Your coupon was successfully applied.",module,Magento_SalesRule
@@ -15326,12 +15326,12 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "It's time to change your password.","Je čas na zmenu vášho hesla.",module,Magento_User
 "It's time to <a href=""%1"">change your password</a>.","It's time to <a href=""%1"">change your password</a>.",module,Magento_User
 "Your password has expired; please contact your administrator.","Your password has expired; please contact your administrator.",module,Magento_User
-"Password Help","Password Help",module,Magento_User
-"Enter your email address.  You will receive an email with a link to reset your password.","Enter your email address.  You will receive an email with a link to reset your password.",module,Magento_User
-"Email address","Email address",module,Magento_User
-"Retrieve Password","Retrieve Password",module,Magento_User
-"Back to Sign in","Back to Sign in",module,Magento_User
-"Forgot your password?","Forgot your password?",module,Magento_User
+"Password Help","Pomoc s heslom",module,Magento_User
+"Enter your email address.  You will receive an email with a link to reset your password.","Zadajte svoju emailovú adresu. Dostanete e-mail s odkazom na obnovenie hesla.",module,Magento_User
+"Email address","Emailová adresa",module,Magento_User
+"Retrieve Password","Získať heslo",module,Magento_User
+"Back to Sign in","Naspäť do prihlásenia",module,Magento_User
+"Forgot your password?","Zabudli ste heslo?",module,Magento_User
 "Reset a Password","Reset a Password",module,Magento_User
 "Confirm New Password","Potvrdiť nové heslo",module,Magento_User
 "Reset Password","Obnoviť heslo",module,Magento_User
@@ -15376,7 +15376,7 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "New admin user '%user_name' created","New admin user '%user_name' created",module,Magento_User
 "A new admin account was created for %first_name, %last_name using %email.","A new admin account was created for %first_name, %last_name using %email.",module,Magento_User
 "The password entered for the current user is invalid. Verify the password and try again.","The password entered for the current user is invalid. Verify the password and try again.",module,Magento_User
-"The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.","The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.",module,Magento_User
+"The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.","Prihlásenie do účtu bolo nesprávne alebo bol váš účet dočasne zablokovaný. Počkajte a skúste to neskôr znova.",module,Magento_User
 "More permissions are needed to access this.","More permissions are needed to access this.",module,Magento_User
 "The password reset token is incorrect. Verify the token and try again.","The password reset token is incorrect. Verify the token and try again.",module,Magento_User
 "Your account is temporarily disabled. Please try again later.","Your account is temporarily disabled. Please try again later.",module,Magento_User
@@ -16036,7 +16036,7 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Inserting a widget does not create a widget instance.","Inserting a widget does not create a widget instance.",module,Magento_Widget
 "Wish List","Wish List",module,Magento_Wishlist
 "Wish List Sharing","Wish List Sharing",module,Magento_Wishlist
-"My Wish List","My Wish List",module,Magento_Wishlist
+"My Wish List","Môj zoznam prianí",module,Magento_Wishlist
 "%1's Wish List","%1's Wish List",module,Magento_Wishlist
 "Page not found.","Stránka sa nenašla.",module,Magento_Wishlist
 "We can't specify a product.","We can't specify a product.",module,Magento_Wishlist
