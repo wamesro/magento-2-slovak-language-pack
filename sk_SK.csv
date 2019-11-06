@@ -135,7 +135,7 @@
 "You cannot configure a product.","Nemožete nakonfigurovať produkt.",module,Magento_AdvancedCheckout
 "You removed the items.","Odstránili ste položky.",module,Magento_AdvancedCheckout
 "You removed the item.","Odstránili ste položku.",module,Magento_AdvancedCheckout
-"You added %1 to your shopping cart.","Pridali ste %1 do Vašeho nákupního košíku.",module,Magento_AdvancedCheckout
+"You added %1 to your shopping cart.","Pridali ste %1 do vášho nákupného košíka.",module,Magento_AdvancedCheckout
 "You cannot add a product.","Nemôžete pridať produkt.",module,Magento_AdvancedCheckout
 "Order by SKU","Zoradiť podľa katalógového čísla",module,Magento_AdvancedCheckout
 "The SKU was not found in the catalog.","SKU sa v katalógu nenašlo.",module,Magento_AdvancedCheckout
@@ -154,8 +154,8 @@
 "We can't add a product to cart by id ""%1"".","Nemožno pridať produkt do košíka podľa id ""%1"".",module,Magento_AdvancedCheckout
 "Something went wrong while reordering this product.","Došlo k chybe počas zoradenia produktu.",module,Magento_AdvancedCheckout
 "We can't find this wish list.","Tento zoznam prianí nieje možné nájsť.",module,Magento_AdvancedCheckout
-"You added %1 product to your shopping cart.","%1 produkt bol pridaný do Vašeho nákupného košíka.",module,Magento_AdvancedCheckout
-"You added %1 products to your shopping cart.","%1 produkty boli pridané do Vašeho nákupného košíka.",module,Magento_AdvancedCheckout
+"You added %1 product to your shopping cart.","%1 produkt bol pridaný do vášho nákupného košíka.",module,Magento_AdvancedCheckout
+"You added %1 products to your shopping cart.","%1 produkty boli pridané do vášho nákupného košíka.",module,Magento_AdvancedCheckout
 "%1 product requires your attention.","%1 produkt vyžaduje vašu pozornosť.",module,Magento_AdvancedCheckout
 "%1 products require your attention.","%1 produkty vyžadujú vašu pozornosť.",module,Magento_AdvancedCheckout
 "Yes, for Specified Customer Groups","Áno, pre určitú zákaznícku skupinu",module,Magento_AdvancedCheckout
@@ -190,7 +190,7 @@
 "Item","Položka",module,Magento_AdvancedCheckout
 "See price before order confirmation.","Pozrite si ceny pred potvrdením objednávky.",module,Magento_AdvancedCheckout
 "What's this?","Čo to je?",module,Magento_AdvancedCheckout
-"Incl. Tax","Vrátane dane",module,Magento_AdvancedCheckout
+"Incl. Tax","s DPH",module,Magento_AdvancedCheckout
 "Excl. Tax","Bez dane",module,Magento_AdvancedCheckout
 "Edit item parameters","Upraviť parametre položky",module,Magento_AdvancedCheckout
 "Edit","Upraviť",module,Magento_AdvancedCheckout
@@ -1856,7 +1856,7 @@ and the product descriptor can be up to 18, 14, or 9 characters respectively (wi
 "New Category","Nová kategória",module,Magento_Catalog
 "Images (.gif, .jpg, .png)","Obrázky (.gif, .jpg, .png)",module,Magento_Catalog
 "Add New Images","Pridať nové obrázky",module,Magento_Catalog
-"Inc. Tax","Vrátane dane",module,Magento_Catalog
+"Inc. Tax","s DPH",module,Magento_Catalog
 "Does this have a weight?","Má to váhu?",module,Magento_Catalog
 "Product","Produkt",module,Magento_Catalog
 "Notify Low Stock RSS","RSS oznamenia nízkych zásob",module,Magento_Catalog
@@ -2554,7 +2554,7 @@ and the product descriptor can be up to 18, 14, or 9 characters respectively (wi
 "The attribute couldn't be validated due to an error. Verify your information and try again. If the error persists, please try again later.","The attribute couldn't be validated due to an error. Verify your information and try again. If the error persists, please try again later.",module,Magento_Catalog
 "Tier prices data should be array, but actually other type is received","Tier prices data should be array, but actually other type is received",module,Magento_Catalog
 "Price indexer ""%1"" must implement %2 or %3","Price indexer ""%1"" must implement %2 or %3",module,Magento_Catalog
-"You added product %1 to the <a href=""%2"">comparison list</a>.","You added product %1 to the <a href=""%2"">comparison list</a>.",module,Magento_Catalog
+"You added product %1 to the <a href=""%2"">comparison list</a>.","Pridali ste produkt %1 do <a href=""%2"">zoznamu porovnania</a>.",module,Magento_Catalog
 "Maximum %1 characters","Maximum %1 characters",module,Magento_Catalog
 "remaining","remaining",module,Magento_Catalog
 "too many","too many",module,Magento_Catalog
@@ -3214,7 +3214,7 @@ Time in seconds between the widget updates.,module,Magento_CatalogWidget
 "Customer is already registered","Zákazník je už zaregistrovaný",module,Magento_Checkout
 "Your session has expired","Platnosť vašej relácie uplynula",module,Magento_Checkout
 "A letter with further instructions will be sent to your email.","Na váš e-mail sa odošú informácie s ďalšími pokynmi.",module,Magento_Checkout
-"You added %1 to your shopping cart.","Pridali ste %1 do Vašeho nákupního košíku.",module,Magento_Checkout
+"You added %1 to your shopping cart.","Pridali ste %1 do vášho nákupného košíka.",module,Magento_Checkout
 "We can't add this item to your shopping cart right now.","Práve teraz nieje možné pridať položku do vašeho košíka.",module,Magento_Checkout
 "Out of stock","Vypredané",module,Magento_Checkout
 "We can't find the quote item.","Nemôžeme nájsť položku z vašeho košíka.",module,Magento_Checkout
@@ -3288,12 +3288,12 @@ Time in seconds between the widget updates.,module,Magento_CatalogWidget
 "Click <a href=""%1"">here</a> to continue shopping.","Kliknite <a href=""%1""> tu</a> pre pokračovanie v nákupe.",module,Magento_Checkout
 "Estimate Tax","Odhad dane",module,Magento_Checkout
 "Estimate Shipping and Tax","Odhad poštovného a dane",module,Magento_Checkout
-"Excl. Tax","Bez dane",module,Magento_Checkout
+"Excl. Tax","bez DPH",module,Magento_Checkout
 "Loading...","Načítávanie...",module,Magento_Checkout
 "Order #","Objednávka #",module,Magento_Checkout
 "Proceed to Checkout","Prejdite do pokladne",module,Magento_Checkout
 "Product Name","Názov produktu",module,Magento_Checkout
-"Incl. Tax","Vrátane dane",module,Magento_Checkout
+"Incl. Tax","s DPH",module,Magento_Checkout
 "Your order number is: %1.","Číslo vašej objednávky je: %1.",module,Magento_Checkout
 "Your order # is: <span>%1</span>.","Číslo vašej objednávky je: <span>%1</span>.",module,Magento_Checkout
 "We'll email you an order confirmation with details and tracking info.","Bude Vám odoslané potvrdenie objednávky a prípadne i informácie na sledovanie zásielky.",module,Magento_Checkout
@@ -3405,7 +3405,7 @@ Time in seconds between the widget updates.,module,Magento_CatalogWidget
 "Maximum Display Recently Added Item(s)","Maximum Display Recently Added Item(s)",module,Magento_Checkout
 "of","of",module,Magento_Checkout
 "Something went wrong while saving the page. Please refresh the page and try again.","Something went wrong while saving the page. Please refresh the page and try again.",module,Magento_Checkout
-"You added %1 to your <a href=""%2"">shopping cart</a>.","You added %1 to your <a href=""%2"">shopping cart</a>.",module,Magento_Checkout
+"You added %1 to your <a href=""%2"">shopping cart</a>.","Pridali ste %1 do vášho <a href=""%2"">nákupného košíka</a>.",module,Magento_Checkout
 "Please select at least one product to add to cart","Please select at least one product to add to cart",module,Magento_Checkout
 "The quote item isn't found. Verify the item and try again.","The quote item isn't found. Verify the item and try again.",module,Magento_Checkout
 "The order wasn't placed. First, agree to the terms and conditions, then try placing your order again.","The order wasn't placed. First, agree to the terms and conditions, then try placing your order again.",module,Magento_Checkout
@@ -4509,7 +4509,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "These products are not associated.","These products are not associated.",module,Magento_ConfigurableProduct
 "Disable Product","Disable Product",module,Magento_ConfigurableProduct
 "Enable Product","Enable Product",module,Magento_ConfigurableProduct
-"Incl. Tax","Vrátane dane",module,Magento_ConfigurableProduct
+"Incl. Tax","s DPH",module,Magento_ConfigurableProduct
 "An attribute has been removed. This attribute will no longer appear in your configurations.","An attribute has been removed. This attribute will no longer appear in your configurations.",module,Magento_ConfigurableProduct
 "Select options for all attributes or remove unused attributes.","Select options for all attributes or remove unused attributes.",module,Magento_ConfigurableProduct
 "Choose this option to delete and replace extension data for all past configurations.","Choose this option to delete and replace extension data for all past configurations.",module,Magento_ConfigurableProduct
@@ -7329,8 +7329,8 @@ Email template chosen based on theme fallback when ""Default"" option is selecte
 "Add Printed Card","Add Printed Card",module,Magento_GiftWrapping
 "Gift Wrapping for the Entire Order","Gift Wrapping for the Entire Order",module,Magento_GiftWrapping
 "Other Gift Options","Other Gift Options",module,Magento_GiftWrapping
-"Excl. Tax","Bez dane",module,Magento_GiftWrapping
-"Incl. Tax","Vrátane dane",module,Magento_GiftWrapping
+"Excl. Tax","bez DPH",module,Magento_GiftWrapping
+"Incl. Tax","s DPH",module,Magento_GiftWrapping
 "Preview","Náhľad",module,Magento_GiftWrapping
 "Gift wrapping","Gift wrapping",module,Magento_GiftWrapping
 "Printed card","Printed card",module,Magento_GiftWrapping
@@ -8394,8 +8394,8 @@ it will make no affect on Price filter.",module,Magento_LayeredNavigation
 "of","of",module,Magento_Multishipping
 "Shipping To","Shipping To",module,Magento_Multishipping
 "Shipping Method","Spôsob dopravy",module,Magento_Multishipping
-"Incl. Tax","Vrátane dane",module,Magento_Multishipping
-"Excl. Tax","Bez dane",module,Magento_Multishipping
+"Incl. Tax","s DPH",module,Magento_Multishipping
+"Excl. Tax","bez DPH",module,Magento_Multishipping
 "Order Review","Order Review",module,Magento_Multishipping
 "Item","Položka",module,Magento_Multishipping
 "Edit","Upraviť",module,Magento_Multishipping
@@ -8716,7 +8716,7 @@ it will make no affect on Price filter.",module,Magento_LayeredNavigation
 "Sorry, rates are not available for this quote.","Sorry, rates are not available for this quote.",module,Magento_NegotiableQuote
 "Shipping Address","Dodacia adresa",module,Magento_NegotiableQuote
 "You have no shipping address for this quote.","You have no shipping address for this quote.",module,Magento_NegotiableQuote
-"Incl. Tax","Vrátane dane",module,Magento_NegotiableQuote
+"Incl. Tax","s DPH",module,Magento_NegotiableQuote
 "Proposed Shipping Price","Proposed Shipping Price",module,Magento_NegotiableQuote
 "Click to change shipping method","Click to change shipping method",module,Magento_NegotiableQuote
 "Sorry, rates are not available for this quote..","Sorry, rates are not available for this quote..",module,Magento_NegotiableQuote
@@ -9302,7 +9302,7 @@ If field is empty default value localhost will be saved.",module,Magento_PageCac
 "See terms","See terms",module,Magento_Paypal
 "You will be redirected to the PayPal website.","You will be redirected to the PayPal website.",module,Magento_Paypal
 "You will be redirected to the PayPal website when you place an order.","You will be redirected to the PayPal website when you place an order.",module,Magento_Paypal
-"Incl. Tax","Vrátane dane",module,Magento_Paypal
+"Incl. Tax","s DPH",module,Magento_Paypal
 "Billing Information","Billing Information",module,Magento_Paypal
 "Shipping Information","Prepravné informácie",module,Magento_Paypal
 "Invalid block type","Invalid block type",module,Magento_Paypal
@@ -9994,7 +9994,8 @@ or more. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" 
 "Layout","Rozloženie",module,Magento_Paypal
 "Select Responsive to ensure the PayPal button renders correctly on mobile devices.","Select Responsive to ensure the PayPal button renders correctly on mobile devices.",module,Magento_Paypal
 "Shape","Shape",module,Magento_Paypal
-"Color","Color",module,Magento_Paypal
+"Color","Farba",module,Magento_Paypal
+"Material","Materiál",module,Magento_Paypal
 "Product Pages","Product Pages",module,Magento_Paypal
 "Cart Page","Cart Page",module,Magento_Paypal
 "Mini Cart","Mini Cart",module,Magento_Paypal
@@ -10940,7 +10941,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "We can't add the item to the Requisition List right now: %1.","We can't add the item to the Requisition List right now: %1.",module,Magento_RequisitionList
 "We can't specify a requisition list.","We can't specify a requisition list.",module,Magento_RequisitionList
 "We can't specify a product.","We can't specify a product.",module,Magento_RequisitionList
-"You added %1 item(s) to your shopping cart.","You added %1 item(s) to your shopping cart.",module,Magento_RequisitionList
+"You added %1 item(s) to your shopping cart.","Pridali ste %1 položku(y) do vášho košíka.",module,Magento_RequisitionList
 "Something went wrong.","Niečo sa pokazilo.",module,Magento_RequisitionList
 "We can't configure the product right now.","We can't configure the product right now.",module,Magento_RequisitionList
 "%1 item(s) were copied to %2","%1 item(s) were copied to %2",module,Magento_RequisitionList
@@ -10990,7 +10991,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Subtotal","Medzisúčet",module,Magento_RequisitionList
 "Product","Produkt",module,Magento_RequisitionList
 "SKU","Katalógové číslo",module,Magento_RequisitionList
-"Excl. Tax","Bez dane",module,Magento_RequisitionList
+"Excl. Tax","bez DPH",module,Magento_RequisitionList
 "Edit item","Edit item",module,Magento_RequisitionList
 "Remove item","Odstrániť položku",module,Magento_RequisitionList
 "Select all","Select all",module,Magento_RequisitionList
@@ -12181,8 +12182,8 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "An item object is not specified.","An item object is not specified.",module,Magento_Sales
 "A PDF object is not specified.","A PDF object is not specified.",module,Magento_Sales
 "A PDF page object is not specified.","A PDF page object is not specified.",module,Magento_Sales
-"Excl. Tax","Bez dane",module,Magento_Sales
-"Incl. Tax","Vrátane dane",module,Magento_Sales
+"Excl. Tax","bez DPH",module,Magento_Sales
+"Incl. Tax","s DPH",module,Magento_Sales
 "Packing Slip # ","Packing Slip # ",module,Magento_Sales
 "title","title",module,Magento_Sales
 "The PDF total model %1 must be or extend \Magento\Sales\Model\Order\Pdf\Total\DefaultTotal.","The PDF total model %1 must be or extend \Magento\Sales\Model\Order\Pdf\Total\DefaultTotal.",module,Magento_Sales
@@ -13552,7 +13553,7 @@ configuring in shared catalogs will not be restricted to customers.",module,Mage
 "The order was placed using %1.","The order was placed using %1.",module,Magento_Shipping
 "Shipping Information","Prepravné informácie",module,Magento_Shipping
 "Total Shipping Charges","Total Shipping Charges",module,Magento_Shipping
-"Incl. Tax","Vrátane dane",module,Magento_Shipping
+"Incl. Tax","s DPH",module,Magento_Shipping
 "Items to Ship","Items to Ship",module,Magento_Shipping
 "Qty to Ship","Qty to Ship",module,Magento_Shipping
 "Ship","Ship",module,Magento_Shipping
@@ -14463,15 +14464,15 @@ Select a different range to add a new Future Update.",module,Magento_Staging
 "A class with the same name already exists for ClassType %1.","A class with the same name already exists for ClassType %1.",module,Magento_Tax
 "customer group","customer group",module,Magento_Tax
 "product","product",module,Magento_Tax
-"Excl. tax:","Excl. tax:",module,Magento_Tax
-"Incl. Tax","Vrátane dane",module,Magento_Tax
+"Excl. tax:","bez DPH:",module,Magento_Tax
+"Incl. Tax","s DPH",module,Magento_Tax
 "Entity already exists","Entity already exists",module,Magento_Tax
 "Cannot save titles","Cannot save titles",module,Magento_Tax
 "Some Message","Some Message",module,Magento_Tax
 "Something went wrong","Something went wrong",module,Magento_Tax
 "Could not save","Could not save",module,Magento_Tax
 "No such entity","No such entity",module,Magento_Tax
-"Excl. Tax","Bez dane",module,Magento_Tax
+"Excl. Tax","bez DPH",module,Magento_Tax
 "Note:","Note:",module,Magento_Tax
 "Leave this field empty if you wish to use the tax identifier.","Leave this field empty if you wish to use the tax identifier.",module,Magento_Tax
 "An error occurred","An error occurred",module,Magento_Tax
@@ -14518,7 +14519,7 @@ Select a different range to add a new Future Update.",module,Magento_Staging
 "State/Region","State/Region",module,Magento_Tax
 "Rate","Rate",module,Magento_Tax
 "Subtotal Only","Subtotal Only",module,Magento_Tax
-"(Excl. Tax)","(Excl. Tax)",module,Magento_Tax
+"(Excl. Tax)","(bez DPH)",module,Magento_Tax
 "(Incl. Tax)","(Incl. Tax)",module,Magento_Tax
 "Order Total Excl. Tax","Order Total Excl. Tax",module,Magento_Tax
 "Order Total Incl. Tax","Order Total Incl. Tax",module,Magento_Tax
@@ -15942,9 +15943,9 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Tax","Daň",module,Magento_Weee
 "Website","Webová stránka",module,Magento_Weee
 "Action","Akcia",module,Magento_Weee
-"Excl. Tax","Bez dane",module,Magento_Weee
+"Excl. Tax","bez DPH",module,Magento_Weee
 "Total","Celkom",module,Magento_Weee
-"Incl. Tax","Vrátane dane",module,Magento_Weee
+"Incl. Tax","s DPH",module,Magento_Weee
 "Total Incl. Tax","Total Incl. Tax",module,Magento_Weee
 "Final Price","Final Price",module,Magento_Weee
 "Fixed Product Taxes","Fixed Product Taxes",module,Magento_Weee
@@ -16041,7 +16042,7 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "We can't specify a product.","We can't specify a product.",module,Magento_Wishlist
 "We can't add the item to Wish List right now: %1.","We can't add the item to Wish List right now: %1.",module,Magento_Wishlist
 "We can't add the item to Wish List right now.","We can't add the item to Wish List right now.",module,Magento_Wishlist
-"You added %1 to your shopping cart.","Pridali ste %1 do Vašeho nákupního košíku.",module,Magento_Wishlist
+"You added %1 to your shopping cart.","Pridali ste %1 do vášho nákupného košíka.",module,Magento_Wishlist
 "This product(s) is out of stock.","This product(s) is out of stock.",module,Magento_Wishlist
 "We can't add the item to the cart right now.","We can't add the item to the cart right now.",module,Magento_Wishlist
 "We can't load the Wish List item right now.","We can't load the Wish List item right now.",module,Magento_Wishlist
